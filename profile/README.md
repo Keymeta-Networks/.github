@@ -4,6 +4,6 @@ find the best solution for your business of Cloud Migration, static and dynamic 
 Want to be part of the keymeta network?
 
 
-<p align="center">Join our <a href="https://github.com/keymeta-networks/community/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community">GitHub Organization :octocat:</a> and continue to contribute</p>
+<p align="center">Join our <a href="https://github.com/keymeta-networks/community/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+Keymeta+Networks">GitHub Organization :octocat:</a> and continue to contribute</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
