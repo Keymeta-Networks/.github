@@ -1,5 +1,4 @@
-Keymeta is a consulting and Information Technology services. We can deal with various problems and
-find the best solution for your business of Cloud Migration, static and dynamic WEB Applications, mobile applications for Android/iOS native or hybrid, and also Manage Services. We come together and join forces in Keymeta Networks.
+We're your one-stop community specializing in software development, cloud computing, managed services, and cutting-edge aerial photography through drone technology. Connecting technology for exceptional outcomes. We come together and join forces in Keymeta Network.
 
 Want to be part of the keymeta network?
 
